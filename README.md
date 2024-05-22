@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full-stack software engineer from India-🇮🇳</h3>
 
 - 🔭 I’m currently working on **a live corporate project at Axis Bank.**
-- 
 - 📫 How to reach me: **mihirshah2752@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/mihir-shah2752/](https://www.linkedin.com/in/mihir-shah2752/)
 

@@ -100,7 +100,7 @@ I regularly share insights on Medium about full-stack development, React best pr
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mihir-shah-752)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/iermihirshah)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mihirshahwrites)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1854153/mihir-shah)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mihirshah2752@gmail.com)

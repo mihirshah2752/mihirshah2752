@@ -119,10 +119,15 @@ I regularly share insights on Medium about full-stack development, React best pr
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihirshah2752&theme=dark&show_icons=true)
+<div align="center">
+  <a href="https://github.com/mihirshah2752">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mihirshah2752&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/mihirshah2752">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirshah2752&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+</div>
 
----
-
-**Last Updated:** December 2025 | Based in Ahmedabad, Gujarat, India
+---**Last Updated:** December 2025 | Based in Ahmedabad, Gujarat, India
